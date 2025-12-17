@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- TODO
+- WHO ARE YOU?
+- WHAT TOOLS DO YOU USE?
+- WHAT ARE YOU CURRENTLY WORKING ON?
+- HOW TO REACH YOU
 -->
