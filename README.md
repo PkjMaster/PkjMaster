@@ -8,11 +8,15 @@ I'm  currently working on the CS50x course.
 
 I'm currently learning C.
 
-Some languages i've alread worked are:
-Python
-Lua
-PHP
-JavaScript
+Some languages i've alread worked are
+
+-Python
+
+-Lua
+
+-PHP
+
+-JavaScript
 
 
 
