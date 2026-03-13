@@ -4,9 +4,9 @@ I'm **PkjMaster** aka Pedro Augusto a student of the IT area in Brazil.
 
 I've concluded the computer technician course on the IF Baiano
 
-I'm  currently working on the CS50x course.
+I'm currently finishing the CS50x course and studying competitive programming.
 
-I'm currently learning C.
+I'm currently learning C++.
 
 Some languages i've alread worked are:
 
@@ -17,6 +17,8 @@ Some languages i've alread worked are:
 -PHP
 
 -JavaScript
+
+-C
 
 
 
