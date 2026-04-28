@@ -1,14 +1,12 @@
 ## Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **PkjMaster** aka Pedro Augusto a student of the IT area in Brazil.
+I'm **PkjMaster** aka Pedro Augusto a undergraduate student of the Federal University of Campina Grande in Brazil.
 
-I've concluded the computer technician course on the IF Baiano
+I've concluded the computer technician course on the IF Baiano.
 
-I'm currently finishing the CS50x course and studying competitive programming.
+I'm currently finishing the CS50x course and studying competitive programming (besides normal classes).
 
-I'm currently learning C++.
-
-Some languages i've alread worked are:
+Some languages i've already worked are:
 
 -Python
 
@@ -20,7 +18,7 @@ Some languages i've alread worked are:
 
 -C
 
-
+-C++
 
 
 <!--
